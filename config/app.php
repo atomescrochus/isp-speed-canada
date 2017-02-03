@@ -167,6 +167,7 @@ return [
          * Package Service Providers...
          */
         Laravel\Tinker\TinkerServiceProvider::class,
+        Atomescrochus\LaravelBulmaStarter\LaravelBulmaStarterServiceProvider::class,
 
         /*
          * Application Service Providers...
